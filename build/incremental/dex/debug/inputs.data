@@ -1,0 +1,29 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375896520642 4323 f23da627d054267a7b02a4199b18aa8e1b19a26e D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$GrabYoutubeTask.class
+1375896052608 4585 49afe1b1f1429b68b0317afe26d7c9fb59232784 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\dao\EntryDao.class
+1375808936130 447 53f04f216c8666f48f7aa1410e15ab6c8ad7412f D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$layout.class
+1375896520623 2879 cd8a8cd5a32e2c288c8f15c1bebe5a0f0f146356 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$1.class
+1375896520660 5595 69db7e48a4df3c26b6109715ca853efc2d66c062 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity.class
+1375896052598 1732 facb7431811915fb97cf36cc155c8b1fda25ab55 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\dao\EntryDao$DBOpenHelper.class
+1375806674826 468 79f10be30cb354dd5aaee3d6cf972c989902df54 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$drawable.class
+1375797974117 351 3b3a3e197c50fd51a4ca47f4456bd927aa5fcb35 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\BuildConfig.class
+1375690601916 490914 3fe75433da602500cc71fcc1c46e5550291dd45d D:\Android\Android studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1375896052672 4207 47e7635e1c521f360117958d1a15b20fec7d9c70 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\xml\YoutubeParser.class
+1375896052645 4014 b506606394bdbb2654f257d75c7c8165ea05b26b D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\xml\VkParser.class
+1375896052533 1755 f99389e6df0bc9b5c4fa906facb280ff15224d47 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\dao\Entry.class
+1375808936134 440 8b0d6dfdf8d922657951ae49a228125080c61f2a D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$style.class
+1375806674747 581 ab66a716eb731e94803178e6a2a1756833de5bef D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\dao\Columns.class
+1375896052621 1080 9df058059aaedff48fcb7d47ef29aea191796293 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\xml\HttpGetter.class
+1375806674829 640 778f70307b99bcc3a7215b4f100ffc30af4cee32 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$id.class
+1375896520627 1713 c8bbfd42a36911bfdbd7660e365ac800b5747b0c D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$2.class
+1375797974076 470 062e08ae4ede5381537fd07a58231b5e9c7040af D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$dimen.class
+1375896052517 2919 b8e3d1f74059f285160be99c4c5abf8b0bc0f053 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\ParserAdapter.class
+1375896520629 1391 52114ad9cdfcd9112ec1fcc8f940c45a34b8e44e D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$3.class
+1375808936131 397 df91b291f721950a4a89074a722e2fb75880decd D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$menu.class
+1375797974068 349 e3a3d37ad675a2350c84ee3bc9664de466bfdec9 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$attr.class
+1375808936133 481 9a3715f7663653efa18081a4abbf97554c80b258 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R$string.class
+1375896520652 2417 8fd814247a68445980764aeea55e56a87ceb31cd D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$DbSavingTask.class
+1375896520647 3472 c8867e906f241699c332bbdab9b427d174618488 D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\MainActivity$GrabVkTask.class
+1375808936136 707 1a07e0140bcf9222899be8577d0bd53e2005212e D:\Android\Android workspace\MediaSearchProject\MediaSearch\build\classes\debug\ru\falikk\mediasearch\R.class
